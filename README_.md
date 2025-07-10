@@ -32,7 +32,7 @@ The pipeline demonstrates standard good practices:
 - The solution does not copy private code; only standard open-source libraries are used.
 
 ## 🚀 How to Run
-1. Open `ML_ai_hackathon.ipynb` in Google Colab or Jupyter.
+1. Open `ML_ai_hackathon.ipynb` in Google Colab or Jupyter (prefer jupitor).
 2. Upload the provided `train.csv`, `train_labels.csv`, and `test.csv`.
 3. Run all cells.
 4. The notebook will generate `submission_final.csv` ready for upload.
@@ -49,8 +49,5 @@ Submitted by: **Ayush Kumar**
 Branch: **Chemical Engineering**  
 For: IITG.ai Cancer Type Prediction Hackathon
 
----
-
-**Good luck to all participants!**
 
 ---
