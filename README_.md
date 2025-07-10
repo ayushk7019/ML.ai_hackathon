@@ -33,9 +33,10 @@ The pipeline demonstrates standard good practices:
 
 ## 🚀 How to Run
 1. Open `ML_ai_hackathon.ipynb` in Google Colab or Jupyter (prefer jupitor).
-2. Upload the provided `train.csv`, `train_labels.csv`, and `test.csv`.
-3. Run all cells.
-4. The notebook will generate `submission_final.csv` ready for upload.
+2. Note I have done this hackathon on Jupitor
+3. Upload the provided `train.csv`, `train_labels.csv`, and `test.csv`.
+4. Run all cells.
+5. The notebook will generate `submission_final.csv` ready for upload.
 
 ## 📊 Evaluation
 The notebook prints:
